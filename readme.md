@@ -36,5 +36,5 @@ Now if you want to run the sleep command for 10 seconds
 
 So, it will append the `10` to the last **CMD** and replace it
 
-#Summary
+# Summary
 Therefor, whatever you pass using the **ENTRYPOINT**, it appends as an extra argument command, whereas whatever command you pass for **CMD**, it replaces the whole command
